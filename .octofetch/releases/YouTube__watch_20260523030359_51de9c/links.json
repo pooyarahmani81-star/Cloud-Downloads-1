@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1308",
+  "folder": "YouTube__watch_20260523030359_51de9c",
+  "base_name": "BLACK_CAT_is_OP_Marvel_Rivals_ID5Ov40KOCQ_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/pooyarahmani81-star/Cloud-Downloads-1/releases/tag/co-releases-v1-1308",
+  "files": [
+    {
+      "name": "BLACK_CAT_is_OP_Marvel_Rivals_ID5Ov40KOCQ_720p.mp4",
+      "url": "https://github.com/pooyarahmani81-star/Cloud-Downloads-1/releases/download/co-releases-v1-1308/BLACK_CAT_is_OP_Marvel_Rivals_ID5Ov40KOCQ_720p.mp4",
+      "api_url": "https://api.github.com/repos/pooyarahmani81-star/Cloud-Downloads-1/releases/assets/427587124",
+      "id": 427587124,
+      "size": 1049622235,
+      "download_count": 0
+    }
+  ]
+}
