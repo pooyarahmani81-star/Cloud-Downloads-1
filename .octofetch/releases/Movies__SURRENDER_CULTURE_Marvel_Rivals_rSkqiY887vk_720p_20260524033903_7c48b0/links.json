@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5288",
+  "folder": "Movies__SURRENDER_CULTURE_Marvel_Rivals_rSkqiY887vk_720p_20260524033903_7c48b0",
+  "base_name": "Movies__SURRENDER_CULTURE_Marvel_Rivals_rSkqiY887vk_720p_20260524033903_7c48b0.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/pooyarahmani81-star/Cloud-Downloads-1/releases/tag/co-releases-v1-5288",
+  "files": [
+    {
+      "name": "Movies__SURRENDER_CULTURE_Marvel_Rivals_rSkqiY887vk_720p_20260524033903_7c48b0.mp4",
+      "url": "https://github.com/pooyarahmani81-star/Cloud-Downloads-1/releases/download/co-releases-v1-5288/Movies__SURRENDER_CULTURE_Marvel_Rivals_rSkqiY887vk_720p_20260524033903_7c48b0.mp4",
+      "api_url": "https://api.github.com/repos/pooyarahmani81-star/Cloud-Downloads-1/releases/assets/428305945",
+      "id": 428305945,
+      "size": 538332686,
+      "download_count": 0
+    }
+  ]
+}
